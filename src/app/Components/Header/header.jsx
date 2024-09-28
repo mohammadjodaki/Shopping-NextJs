@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { useCart } from '../Products/CartContext';
 import React, { useEffect, useState } from "react";  
-import Backgif from "../../Images/backvideo.gif";
+import Backgif from "../../Images/backvideo.webp";
 import Logo1 from "../../Images/svgexport-3.svg";
 import Logo2 from "../../Images/svgexport-4.svg";
 import Basket1 from "../../Images/svgexport-8.svg";
